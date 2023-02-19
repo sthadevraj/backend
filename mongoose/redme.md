@@ -1,0 +1,45 @@
+{
+    "status":"testing status",
+    "posts:[
+        {
+        "postType":"image",
+        "post":"https://www.theskinnybeep.com/wp-content/uploads/2019/01/Versace-Man-2019.jpg"
+    },
+      {
+        "postType":"image",
+        "post":"https://www.theskinnybeep.com/wp-content/uploads/2019/01/Versace-Man-2019.jpg"
+    },
+    ],
+    "likes":[
+        {
+            "userId":"6304e02d481e08d44e618d41",
+            "isNotefied":true
+        }
+    ],
+    "comments":[
+        {
+            "commentText":"Testing comment",
+            "isNotefied":true,
+            "userId":"",
+            "commentLikes":[
+                {
+                    "userId":"6304e02d481e08d44e618d41",
+                   "isNotefied":true
+                }
+            ],
+            "commentReplys":[
+                {
+            "replyText":"Testing comment",
+            "isNotefied":true,
+            "userId":"6304e02d481e08d44e618d41",
+            "replyLikes":[
+                {
+                    "userId":"6304e02d481e08d44e618d41",
+                   "isNotefied":true
+                }
+                ],
+                }
+            ]
+        }
+    ]
+}

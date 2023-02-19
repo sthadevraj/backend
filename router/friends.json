@@ -1,0 +1,115 @@
+[
+    {
+      "friend": "friend1@example.com",
+      "me": "your_email@example.com"
+    },
+    {
+      "friend": "friend2@example.com",
+      "me": "your_email@example.com"
+    },
+    {
+      "friend": "friend3@example.com",
+      "me": "friend1@example.com"
+    },
+    {
+      "friend": "friend4@example.com",
+      "me": "friend1@example.com"
+    },
+    {
+      "friend": "friend5@example.com",
+      "me": "friend2@example.com"
+    },
+    {
+      "friend": "friend6@example.com",
+      "me": "friend2@example.com"
+    },
+    {
+      "friend": "friend7@example.com",
+      "me": "friend3@example.com"
+    },
+    {
+      "friend": "friend8@example.com",
+      "me": "friend3@example.com"
+    },
+    {
+      "friend": "friend9@example.com",
+      "me": "friend4@example.com"
+    },
+    {
+      "friend": "friend10@example.com",
+      "me": "friend4@example.com"
+    },
+    {
+      "friend": "friend11@example.com",
+      "me": "friend5@example.com"
+    },
+    {
+      "friend": "friend12@example.com",
+      "me": "friend5@example.com"
+    },
+    {
+      "friend": "friend13@example.com",
+      "me": "friend6@example.com"
+    },
+    {
+      "friend": "friend14@example.com",
+      "me": "friend6@example.com"
+    },
+    {
+      "friend": "friend15@example.com",
+      "me": "friend7@example.com"
+    },
+    {
+      "friend": "friend16@example.com",
+      "me": "friend7@example.com"
+    },
+    {
+      "friend": "friend17@example.com",
+      "me": "friend8@example.com"
+    },
+    {
+      "friend": "friend18@example.com",
+      "me": "friend8@example.com"
+    },
+    {
+      "friend": "friend19@example.com",
+      "me": "friend9@example.com"
+    },
+    {
+      "friend": "friend20@example.com",
+      "me": "friend9@example.com"
+    },
+    {
+      "friend": "friend21@example.com",
+      "me": "friend10@example.com"
+    },
+    {
+      "friend": "friend22@example.com",
+      "me": "friend10@example.com"
+    },
+    {
+      "friend": "friend23@example.com",
+      "me": "friend11@example.com"
+    },
+    {
+      "friend": "friend24@example.com",
+      "me": "friend11@example.com"
+    },
+    {
+      "friend": "friend25@example.com",
+      "me": "friend12@example.com"
+    },
+    {
+      "friend": "friend26@example.com",
+      "me": "friend12@example.com"
+    },
+    {
+      "friend": "friend27@example.com",
+      "me": "friend13@example.com"
+    },
+    {
+      "friend": "friend28@example.com",
+      "me": "friend13@example.com"
+    }
+]
+  
